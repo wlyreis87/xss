@@ -1,1 +1,1 @@
-'';<script>prompt(1)</script>
+'';<img src="xxx://" onerror="prompt(1)"
