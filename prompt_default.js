@@ -1,1 +1,1 @@
-'';<img src="xxx://" onerror="prompt(1)"
+<img src="xxx://" onerror="prompt(1)">
